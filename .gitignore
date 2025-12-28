@@ -1,0 +1,45 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data & Models (optional - uncomment if needed)
+# data/raw/
+# *.h5
+# *.pkl
+# *.joblib
+
+# Temporary
+*.tmp
+test_*.jpg
+test_*.png
+temp/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+*.bak
